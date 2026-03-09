@@ -3,7 +3,7 @@
     {"nombre": "Pastor", "precio_chica": 95, "precio_grande": 190},
     {"nombre": "Carnitas", "precio_chica": 95, "precio_grande": 190},
     {"nombre": "Chuleta", "precio_chica": 95, "precio_grande": 190},
-    {"nombre": "Milanesa", "precio_chica": 95, "precio_grande": 190},
+    {"nombre": "Milanesa", "precio_chica": 100, "precio_grande": 200},
     {"nombre": "Pierna", "precio_chica": 95, "precio_grande": 190},
     {"nombre": "Huevo", "precio_chica": 65, "precio_grande": 130},
     {"nombre": "Salchicha", "precio_chica": 65, "precio_grande": 130},

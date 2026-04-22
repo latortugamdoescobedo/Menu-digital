@@ -51,10 +51,10 @@
     {"nombre": "Quesadilla sencilla", "descripcion": "Tortilla de harina doblada con queso oaxaca.", "precio": 20}
   ],
   "TACOS": [
-    {"nombre": "Milanesa", "precio": 35, "descripcion": "Tortilla de harina, ingrediente de tu elección, pico de gallo, aguacate, salsa chipotle, crema y queso panela."},
-    {"nombre": "Carnitas", "precio": 35, "descripcion": "Tortilla de harina, ingrediente de tu elección, pico de gallo, aguacate, salsa chipotle, crema y queso panela."},
-    {"nombre": "Chorizo", "precio": 35, "descripcion": "Tortilla de harina, ingrediente de tu elección, pico de gallo, aguacate, salsa chipotle, crema y queso panela."},
-    {"nombre": "Pastor", "precio": 35, "descripcion": "Tortilla de harina, ingrediente de tu elección, pico de gallo, aguacate, salsa chipotle, crema y queso panela."}
+    {"nombre": "Milanesa", "precio": 45, "descripcion": "Tortilla de harina, ingrediente de tu elección, pico de gallo, aguacate, salsa chipotle, crema y queso panela."},
+    {"nombre": "Carnitas", "precio": 45, "descripcion": "Tortilla de harina, ingrediente de tu elección, pico de gallo, aguacate, salsa chipotle, crema y queso panela."},
+    {"nombre": "Chorizo", "precio": 45, "descripcion": "Tortilla de harina, ingrediente de tu elección, pico de gallo, aguacate, salsa chipotle, crema y queso panela."},
+    {"nombre": "Pastor", "precio": 45, "descripcion": "Tortilla de harina, ingrediente de tu elección, pico de gallo, aguacate, salsa chipotle, crema y queso panela."}
   ],
   "HAMBURGUESAS": [
     {"nombre": "Hamburguesa sencillla", "descripcion": "Carne de res, jamón, queso panela y queso amarillo", "precio": 105},
